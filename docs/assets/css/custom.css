@@ -16,7 +16,7 @@ body .markdown-section {
 */
 
 /* Link colors to match SFU branding visual styling (uncomment to use) */
-/*
+
 :root {
 
     --theme-color: #CC0633!important;
@@ -32,7 +32,7 @@ body .markdown-section {
 */
 
 /* Dark mode colours to match SFU branding visual styling for use with light + dark theme (uncomment to use) */
-/*
+
 @media (prefers-color-scheme: dark) {
 :root {
 
@@ -47,7 +47,7 @@ body .markdown-section {
 
     }
 }
-*/
+
 
 /* CSS to better visually match Docsify pages within Moodle LMS (uncomment to use) */
 /*
